@@ -2,8 +2,6 @@
 
 A lightweight and responsive **Masonry Layout** (Pinterest-style) created using modern **CSS Grid**. This project demonstrates how to handle varying image heights in a clean, organized grid structure without using complex JavaScript libraries.
 
-## 🚀 Live Demo
-*(Intha edathula unga GitHub Pages link-ah kudunga)*
 
 ## ✨ Features
 - **CSS Grid Power:** Uses `grid-template-columns` and `grid-row: span` for the masonry effect.
